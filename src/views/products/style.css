@@ -1,0 +1,10 @@
+.filepond--item {
+    width: calc(20% - .5em);
+}
+.filepond--root {
+    height:25vh;
+    max-height: 100em;
+}
+.filepond--panel-root {
+    background-color: #f0f0f0;
+}

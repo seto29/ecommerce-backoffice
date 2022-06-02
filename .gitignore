@@ -1,0 +1,8 @@
+node_modules
+.eslintcache
+.eslintcache
+__MACOSX/.DS_Store
+src/.DS_Store
+src/.DS_Store
+build
+./build
